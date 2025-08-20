@@ -20,6 +20,6 @@ I specialize in **fullstack development**, with strong focus on:
 
 ## 💡 Currently
 
-- 🚀 Working professionally as a **Frontend Engineer**
+- 🚀 Working professionally as a **Fullstack Engineer**
 - 📚 Continuously learning fullstack technologies and modern frameworks
 - 🌱 Exploring advanced UI/UX implementation and backend integrations
