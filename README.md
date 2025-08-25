@@ -2,7 +2,7 @@
 
 🎯 **Frontend Engineer** based in **Bandung, Indonesia**, with a passion for creating seamless, responsive, and scalable web experiences.
 
-I specialize in **fullstack development**, with strong focus on:
+I specialize in **full stack engineer**, with strong focus on:
 
 - ⚙️ **Frontend**: React.js, Next.js, TypeScript, Tailwind CSS
 - 🛠️ **Backend**: Node.js, Express.js, REST API
