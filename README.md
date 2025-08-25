@@ -12,7 +12,7 @@ I specialize in **full stack engineer**, with strong focus on:
 
 ## 🔗 My Portfolio & Contact
 
-- 📁 Portfolio: [linktr.ee/muunoooo](https://linktr.ee/muunoooo)
+- 📁 Portfolio: [portofolio](https://mnaufal-portofolio.vercel.app/)
 - 💼 LinkedIn: [muhammad-naufal04](https://www.linkedin.com/in/muhammad-naufal04/)
 - 📬 Email: [mnaufal12321@gmail.com](mailto:mnaufal12321@gmail.com)
 
