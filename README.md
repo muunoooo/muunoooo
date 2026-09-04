@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Muhammad Naufal (Muno)
+# 👋 Hi there, I'm Muhammad Naufal
 
 🎯 **Frontend Engineer** based in **Bandung, Indonesia**, with a passion for creating seamless, responsive, and scalable web experiences.
 
